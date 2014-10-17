@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[liy:home|Door43 (liy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-liy|d43-liy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-liy/archive/master.zip|d43-liy.zip]]
+
+**Recent Changes**
+{{changes>ns = liy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/liy|Ethnologue data]]
+
